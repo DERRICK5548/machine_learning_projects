@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "trained_on": "2026-05-13T11:06:49.734726",
+  "training_rows": 400,
+  "cv_score": 0.502,
+  "features": [
+    "age",
+    "income",
+    "loan_amount",
+    "credit_score",
+    "job_type",
+    "education"
+  ],
+  "model_type": "RandomForestClassifier",
+  "best_param": {
+    "n_estimators": 100
+  }
+}

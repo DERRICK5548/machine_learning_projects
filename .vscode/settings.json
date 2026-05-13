@@ -1,0 +1,6 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "markdown.validate.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "python.REPL.enableREPLSmartSend": false
+}
